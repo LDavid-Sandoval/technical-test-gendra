@@ -5,18 +5,21 @@ export const typesFirstFetch = {
         max: 826,
         title: "Personajes",
         fetch: "character",
+        pages: 42,
     },
     episode:  {
         min: 1,
         max: 51,
         title: "Episodios",
         fetch: "episode",
+        pages: 3,
     },
     location:  {
         min: 1,
         max: 126,
         title: "Locaciones",
         fetch: "location",
+        pages: 7,
     },
 }
 

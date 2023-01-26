@@ -8,6 +8,6 @@ export const randomNumbers = (min, max, numbersArray) => {
 
 export const substractTempEpi = (str) => {
     const temp = str.substr(2,1)
-    const episode = str.substr(5,2)
+    const episode = str.substr(4,2)
     return [temp,episode]
 }

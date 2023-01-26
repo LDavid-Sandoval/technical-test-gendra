@@ -9,7 +9,7 @@ import {
   ContainerCardsFirstFech,
 } from "./styled-components";
 import { useNavigate } from "react-router-dom";
-import { randomNumbers } from "../../utils";
+import { randomNumbers } from "../../Utils";
 import { typesFirstFetch, baseUrlApi } from "../../Constants";
 import CardHomeSectionComponent from '../CardHomeSectionComponent'
 import useFetch from "../../Hooks/useFetch";
