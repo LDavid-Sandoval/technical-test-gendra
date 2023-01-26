@@ -5,7 +5,6 @@ export const ContainerHome = styled.div`
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
-  justify-content: space-between;
   margin-bottom: 32px;
   @media (max-width: 768px) {
     width: 90%;
@@ -14,7 +13,7 @@ export const ContainerHome = styled.div`
 export const ContainerCardCharacter = styled.div`
   width: 23%;
   height: 120px;
-  margin: 8px 0;
+  margin: 8px;
   display: flex;
   border-radius: 15px;
   background-color: #283059;
