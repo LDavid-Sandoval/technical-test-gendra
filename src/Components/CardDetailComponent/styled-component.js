@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { randomNumbers } from "../../Utils";
+import { randomNumbers } from "../../utils";
 import L1 from '../../assets/locations/L1.jpg'
 import L2 from '../../assets/locations/L2.jpg'
 import L3 from '../../assets/locations/L3.jpg'

@@ -4,7 +4,7 @@ import { Player } from "@lottiefiles/react-lottie-player";
 import CardDeatailComponent from "../../Components/CardDetailComponent";
 import useFetch from "../../Hooks/useFetch";
 import { baseUrlApi } from "../../Constants";
-import { randomNumbers } from "../../Utils"
+import { randomNumbers } from "../../utils"
 import {
   ContainerCardDetailLocationComponent,
   ContainerLoadingDetailLocationComponent,

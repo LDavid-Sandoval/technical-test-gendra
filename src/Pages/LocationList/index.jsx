@@ -9,7 +9,7 @@ import { ContainerHome, ContainerCardCharacter,
     ContainerImgCharacter, ContainerInfoCharacter, ImgCharacter,
     ParagraphTitleInfo, ContainerParagraphInfo, ParagraphInfo, ParagraphInfoData } from "./styled-components";
 import { baseUrlApi } from "../../Constants";
-import { randomNumbers } from "../../Utils"
+import { randomNumbers } from "../../utils"
 import {
     addListLocation,
     addPageListLocation,

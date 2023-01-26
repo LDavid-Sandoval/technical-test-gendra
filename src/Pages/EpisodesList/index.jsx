@@ -10,7 +10,7 @@ import { ContainerHome, ContainerCardCharacter,
     ContainerImgCharacter, ContainerInfoCharacter, ImgCharacter,
     ParagraphTitleInfo, ContainerParagraphInfo, ParagraphInfo, ParagraphInfoData } from "./styled-components";
 import { baseUrlApi } from "../../Constants";
-import { substractTempEpi } from "../../Utils"
+import { substractTempEpi } from "../../utils"
 import {
     addPageListEpisode,
   addListEpisode,

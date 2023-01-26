@@ -5,7 +5,7 @@ import moment from "moment/moment";
 import CardDeatailComponent from "../../Components/CardDetailComponent";
 import useFetch from "../../Hooks/useFetch";
 import { baseUrlApi } from "../../Constants";
-import { substractTempEpi } from "../../Utils"
+import { substractTempEpi } from "../../utils"
 import {
   ContainerCardDetailEpisodeComponent,
   ContainerLoadingDetailEpisodeComponent,

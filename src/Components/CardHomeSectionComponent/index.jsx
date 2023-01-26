@@ -9,7 +9,7 @@ import {
   ContainerParagraphStatus
 } from "./styled-components";
 import { typesFirstFetch, colorsCircleStatus } from "../../Constants";
-import { randomNumbers, substractTempEpi } from '../../Utils'
+import { randomNumbers, substractTempEpi } from '../../utils'
 import S1 from '../../assets/seasons/S1.jpg'
 import S2 from '../../assets/seasons/S2.jpg'
 import S3 from '../../assets/seasons/S3.png'
